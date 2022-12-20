@@ -7,4 +7,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jemoji"
   gem "webrick"
+  gem 'wdm', '>= 0.1.0'
 end
