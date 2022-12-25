@@ -5,6 +5,7 @@ date: 2022-12-23 00:00:00 +0300
 description: GraphQL is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data.
 img: graphql.png 
 tags: [Productivity, Software, Development] # add tag
+published: false
 ---
 
 **GraphQL** is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data. GraphQL is supported by your current code and data rather than being dependent on any one database or storage engine.

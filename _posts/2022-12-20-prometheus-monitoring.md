@@ -5,6 +5,7 @@ date: 2022-12-20 00:00:00 +0300
 description: Prometheus is one of the foundations of the cloud-native environment. It has become the de-facto standard for visibility in Kubernetes environments, creating a new category called Prometheus monitoring
 img: prometheus.png # 
 tags: [Productivity, Software, DevOps] # add tag
+published: false
 ---
 
 ## Introduction to Prometheus Monitoring

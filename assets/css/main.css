@@ -21,6 +21,10 @@ html {
     width: 100% !important;
 }
 
+p{
+    font-size: 14px;
+}
+
 
 /* Sections
    ========================================================================== */
@@ -127,6 +131,7 @@ pre {
  */
 
 a {
+    color:#00ACC8;
     background-color: transparent;
     /* 1 */
     -webkit-text-decoration-skip: objects;
@@ -541,7 +546,7 @@ template {
 }
 
 .highlight {
-    background-color: #faf9f9;
+    background-color: #000000;
     -webkit-border-radius: 3px;
     border-radius: 3px;
     margin: 0;
@@ -569,7 +574,7 @@ template {
 
 .highlight .err {
     color: #a00;
-    background-color: #faa;
+    background-color: transparent;
 }
 
 

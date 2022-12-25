@@ -2,7 +2,7 @@ title: Hello, world! I'm Billy Okeyo
 description: I am a software engineer with a burning passion to want and help others with code that I create. I enjoy the limitless potential of impact that I can have with what I build, it is what pushes me every day to become a better developer.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.billyokeyo.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -16,7 +16,7 @@ social-linkedin: billy-okeyo # add your Linkedin handle
 social-email: # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+# discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
