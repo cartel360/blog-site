@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Multi-Tenancy in Django
-date: 2022-12-26 00:00:00 +0300
-description: GraphQL is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data.
+date: 2023-01-01 00:00:00 +0300
+description: Have you ever wanted to build an application that canna serve more than one customer? And not just serving but also having each customer's data isolated in their own separate databases?
 img: multitenancy.png 
-tags: [Productivity, Software, Development] # add tag
+tags: [Productivity, Software, Django] # add tag
 published: true
 ---
 
