@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Ansible Automation
-date: 2022-12-22 00:00:00 +0300
+date: 2023-01-01 00:00:00 +0300
 description: Ansible is simply an open-source IT engine that automates application deployment, intra service orchestration, cloud provisioning, and many other IT tools.
 img: ansible.png 
 tags: [Productivity, Software, DevOps] # add tag
-published: false
+published: true
 ---
 
 ## What is Ansible
