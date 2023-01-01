@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to DevOps
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 +0400
 description: DevOps is a software development that bridges the gap between software developers and IT staff in a way that new features can be released more quickly and get immediate feedback.
 img: DevOps.png # 
 tags: [Productivity, Software, DevOps]
