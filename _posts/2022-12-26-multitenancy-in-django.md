@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multi-Tenancy in Django
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 
 description: Have you ever wanted to build an application that canna serve more than one customer? And not just serving but also having each customer's data isolated in their own separate databases?
 img: multitenancy.png 
 tags: [Productivity, Software, Django] # add tag

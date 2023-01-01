@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to GraphQL
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 
 description: GraphQL is a query language for your API, and a server-side runtime for executing queries using a type system you define for your data.
 img: graphql.png 
 tags: [Productivity, Software, Development] # add tag

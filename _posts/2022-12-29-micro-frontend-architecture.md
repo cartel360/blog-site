@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Micro Frontend Architecture
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 
 description: Micro frontend architecture is a software development approach that involves breaking down a traditional monolithic frontend application into smaller, independent components that can be developed, deployed, and maintained separately
 img: micro-frontend.png 
 tags: [Productivity, Software, Angular] # add tag

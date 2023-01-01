@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Identity Server 4
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 
 description: IdentityServer is an authentication server that implements OpenID Connect (OIDC) and OAuth 2.0 standards for ASP.NET Core
 img: idserver.png
 tags: [Productivity, Software, Development, .NET] # add tag

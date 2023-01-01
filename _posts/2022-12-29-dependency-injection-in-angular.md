@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dependency Injection in Angular
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 
 description: Dependency injection is a software design pattern that allows a program to provide external dependencies to a component
 img: angular-di.png 
 tags: [Productivity, Software, Angular] # add tag

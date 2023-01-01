@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dockerizing Django Application
-date: 2023-01-01 00:00:00 +0300
+date: 2023-01-01 00:00:00 
 description: Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
 img: dockerize-django.png 
 tags: [Productivity, Docker, Django] # add tag

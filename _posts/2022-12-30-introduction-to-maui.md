@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intorduction to .NET MAUI
-date: 2022-12-30 00:00:00 +0300
+date: 2022-12-30 00:00:00 
 description: OAuth 2.0  stands for “Open Authorization”, is a standard designed to allow a website or application to access resources hosted by other web apps on behalf of a user..
 img: dockerize-django.png 
 tags: [Productivity, Software, Django] # add tag
