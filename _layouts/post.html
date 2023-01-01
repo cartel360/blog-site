@@ -20,6 +20,14 @@ layout: main
         <div class="page-date"><span>{{page.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
       </header>
       {{content | markdownify}}
+      <hr>
+      <!-- <div>
+        <h3>Did the Article Help You?</h3>
+        <p>Would you like to sponsor my content? Feel free to buy me a coffee if this was beneficial to you</p> 
+        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button"
+          data-slug="billyokeyo360" data-color="#5F7FFF" data-emoji="" data-font="Cookie" data-text="Buy me a coffee"
+          data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00"></script>
+      </div> -->
       <div class="page-footer">
         <div class="page-share">
           <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
@@ -30,6 +38,10 @@ layout: main
             <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">&#35; {{ tag }}</a>
           {% endfor %}
         </div>
+        <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+          data-id="billyokeyo360" data-description="Support me on Buy me a coffee!"
+          data-message="Did you enjoy the article and would like to sponsor my content?" data-color="#FF813F"
+          data-position="Right" data-x_margin="18" data-y_margin="18"></script>
       </div>
     </div> <!-- End Wrap Content -->
   </div> <!-- End Page Content -->
